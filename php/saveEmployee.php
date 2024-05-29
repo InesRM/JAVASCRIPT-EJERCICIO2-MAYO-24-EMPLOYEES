@@ -16,7 +16,7 @@ $employeeData = [
 ];
 
 // Codifica los datos en JSON
-$jsonData = json_encode($employeeData);
+$jsonData = json_encode($employeeData, JSON_PRETTY_PRINT);
 
 // Ruta del archivo (verifica si el directorio existe)
 $tempDir = '../tmp';
