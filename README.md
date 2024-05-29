@@ -1,1 +1,1 @@
-Ejercicio 2 del examen de DWEC desarrollado utilizando la librería JQUERY
+Ejercicio 2 del examen de DWEC desarrollado utilizando JavaScript puro
